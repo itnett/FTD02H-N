@@ -1,0 +1,1 @@
+# Mikrokontroller, aktuator og sensorer
